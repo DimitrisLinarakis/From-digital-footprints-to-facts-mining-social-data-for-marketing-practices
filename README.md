@@ -42,5 +42,14 @@ The provided web scraper reads as input usernames of Instagram users from:
 - it works attaching custom request headers to the sent requests, including the *Cookies* field for each session
 ### Collected fields 
 Collected fields are classified into two sub-categories:
-* Fields of an Instagram account
+* Fields of an Instagram account:
+  * User Name
+  * User ID
+  * Account Type/Category
+  * Owned by
+    > It was manually populated, beacause Instagram does not provide this field
+  * Number of followers
+  * Number of followings
+  * Number of posts
+  * Number of videos
 * Fields of an Instagram post
