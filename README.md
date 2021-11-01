@@ -22,3 +22,7 @@ The present tool is a key part of my dissertation with the title of *"From digit
    * *scrapy startproject instascraper*
    * *cd instascraper*
    * *scrapy genspider instagram instagram.com*
+### Structure of project folder
+Once we have entered the above commands, Scrapy spider templates are set up. It should be noted that in this case we have two additional files:
+- the *"resources"* folder
+- the *"tools"* folder
