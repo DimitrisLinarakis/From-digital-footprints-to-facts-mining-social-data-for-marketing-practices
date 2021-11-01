@@ -82,4 +82,4 @@ In order to handle Instagram's tactic that divides the posts of each account at 
   > Handles the first 12 posts of each Instagram account
 * parse_pages()
   > Handles the next dozens of posts of each Instagram account
-### How to use
+## How to use
