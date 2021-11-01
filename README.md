@@ -28,3 +28,8 @@ Once we have entered the above commands, Scrapy spider templates are set up. It 
   > created to store files that contain important data for the scraping mechanism, such as names of Instagram profiles
 - the *"tools"* folder
   > created to store files that contain usually used functions, such as functions that carry out the communication with the database
+###Important note 
+The provided web scraper reads as input usernames of Instagram users from:
+- a database collection
+- a JSON file
+> located in the "resources" folder
