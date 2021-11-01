@@ -19,11 +19,7 @@ The present tool is a key part of my dissertation with the title of *"From digit
 ### Setting up our Scrapy spider
 1. To install Scrapy simply enter the command *"pip install scrapy"* in the command line
 2. Navigate to your project folder Scrapy automatically creates and run the “startproject” command along with the project name (“instascraper” in this case) and Scrapy will build a web scraping project folder for you, with everything already set up. So enter the commands in the order shown below:  
-  3. *scrapy startproject instascraper*
-  4. *cd instascraper*
-  5. *scrapy genspider instagram instagram.com*
+*scrapy startproject instascraper*
+*cd instascraper*
+*scrapy genspider instagram instagram.com*
 
- 1. A numbered list
-  1. A nested numbered list
-  2. 2. Which is numbered
- 2. Which is numbered
