@@ -22,3 +22,8 @@ The present tool is a key part of my dissertation with the title of *"From digit
   3. *scrapy startproject instascraper*
   4. *cd instascraper*
   5. *scrapy genspider instagram instagram.com*
+
+ Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
