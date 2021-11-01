@@ -53,3 +53,12 @@ Collected fields are classified into two sub-categories:
   * Number of posts
   * Number of videos
 * Fields of an Instagram post
+  * Post ID
+  * Post Type
+  * Upload Date
+  * Number of Likes
+  * Number of Comments
+  * Number of Views
+    > In case of video post
+  * Tagged Users
+  * Hashtags
