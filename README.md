@@ -40,3 +40,7 @@ The provided web scraper reads as input usernames of Instagram users from:
 - this mechanism scrapes only the posts that were uploaded during the year 2020
 - it is based on the personalised parametrisation of the "settings.py" file, in order to avoid anti-scraping blocking
 - it works attaching custom request headers to the sent requests, including the *Cookies* field for each session
+### Collected fields 
+Collected fields are classified into two sub-categories:
+* Fields of an Instagram account
+* Fields of an Instagram post
