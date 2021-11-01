@@ -34,8 +34,8 @@ The provided web scraper reads as input usernames of Instagram users from:
 - a JSON file
   > located in the "resources" folder
 ### Selection criteria for Instagram accounts 
-- τhe number of followers of each profile must be greater than or equal to 1000 
-- each profile must be part of the Greek Instagram community 
+- the number of followers of each profile must be greater than or equal to 1000 
+- each profile need to be part of the Greek Instagram community 
 - the number of posts during the year 2020 must be greater than or equal to 1
 - this mechanism scrapes only the posts that were uploaded during the year 2020
 - it is based on the personalised parametrisation of the "settings.py" file, in order to avoid anti-scraping blocking
