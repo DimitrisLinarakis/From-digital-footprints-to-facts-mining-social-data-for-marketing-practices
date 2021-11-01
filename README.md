@@ -25,6 +25,6 @@ The present tool is a key part of my dissertation with the title of *"From digit
 ### Structure of project folder
 Once we have entered the above commands, Scrapy spider templates are set up. It should be noted that in this case we have two additional files:
 - the *"resources"* folder
-  created to store files that contain important data for the scraping mechanism, such as names of Instagram profiles.
+  > created to store files that contain important data for the scraping mechanism, such as names of Instagram profiles.
 - the *"tools"* folder
-  created to store files that contain important data for the scraping mechanism, such as names of Instagram profiles.
+  > created to store files that contain important data for the scraping mechanism, such as names of Instagram profiles.
