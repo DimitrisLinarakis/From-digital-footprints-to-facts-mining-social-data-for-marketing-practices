@@ -68,3 +68,4 @@ Collected fields are classified into two sub-categories:
   * Slide Views
     > In case of video slide
 ### Secondary variables
+It is important to mention the secondary variables that were created in the research part and that emerged as a function of already collected data and helped to detect complex correlations between the collected information.
