@@ -52,7 +52,7 @@ Collected fields are classified into two sub-categories:
   * Number of followings
   * Number of posts
   * Number of videos
-* Fields of an Instagram post
+* Fields of an Instagram post:
   * Post ID
   * Post Type
   * Upload Date
@@ -62,3 +62,9 @@ Collected fields are classified into two sub-categories:
     > In case of video post
   * Tagged Users
   * Hashtags
+* Fields of a Slideshow post:
+  * Slide ID
+  * Slide Type
+  * Slide Views
+    > In case of video slide
+### Secondary variables
