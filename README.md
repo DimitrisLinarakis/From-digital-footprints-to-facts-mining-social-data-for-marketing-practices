@@ -76,7 +76,7 @@ It is important to mention the secondary variables that were created in the rese
 * er_comments post
   > ((Number of Likes + Number of Comments) / Number of followers) * 100
 
-###Important note
+### Important note 
 In order to handle Instagram's tactic that divides the posts of each account at subsections of 12 posts, the collection of the fields mentioned above was completed via two methods:
 * parse()
   > Handles the first 12 posts of each Instagram account
