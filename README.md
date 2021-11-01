@@ -8,3 +8,9 @@ The present tool is a key part of my dissertation with the title of *"From digit
 - The behavior and preferences of the Greek Instagram & YouTube community 
 - The tactics with which businesses operate on Instagram and YouTube
 - The impact of COVID-19 virus on digital behavior of the users
+
+## Additional Tools
+- Python 3.6+
+- Scrapy framework
+- Web browser (recommended: Chrome or Mozilla browser)
+- MongoDB
