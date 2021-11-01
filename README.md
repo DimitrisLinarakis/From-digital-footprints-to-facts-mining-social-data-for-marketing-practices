@@ -69,3 +69,9 @@ Collected fields are classified into two sub-categories:
     > In case of video slide
 ### Secondary variables
 It is important to mention the secondary variables that were created in the research part and that emerged as a function of already collected data and helped to detect complex correlations between the collected information.
+* er_view
+  > (Number of Likes / Number of Views of a video) * 100
+* er_post
+  > (Number of Likes / Number of followers) * 100
+* er_comments post
+  > ((Number of Likes + Number of Comments) / Number of followers) * 100
