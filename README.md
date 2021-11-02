@@ -94,4 +94,8 @@ In order to handle Instagram's tactic that divides the posts of each account at 
 5.  Choose if you want to populate the list "users_to_scrape" from file or database
 6.  Open the file *"pipelines.py"* and update the variables *"myclient"*, *"db"* and *"collection"*, according to the address and the name of your database
 7.  Go to the folder *"tools"* and open the file *"documents_exporter.py"*, then update the variables *"myclient"*, *"db"* and *"collection"*, according to the address and the name of your database
-8.  
+8.  Open the command line and go the the folder in which the project is located
+9.  Run the following command:
+    ```
+    scrapy crawl InstagramSpider
+    ```
