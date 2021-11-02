@@ -19,9 +19,11 @@ The present tool is a key part of my dissertation with the title *"From digital 
 ### Setting up our Scrapy spider
 1. To install Scrapy simply enter the command *"pip install scrapy"* in the command line
 2. Navigate to your project folder Scrapy automatically creates and run the “startproject” command along with the project name (“instascraper” in this case) and Scrapy will build a web scraping project folder for you, with everything already set up. So enter the commands in the order shown below:  
-   * *scrapy startproject instascraper*
-   * *cd instascraper*
-   * *scrapy genspider instagram instagram.com*
+    ```
+    scrapy startproject instascraper
+    cd instascraper
+    scrapy genspider instagram instagram.com
+    ```
 ### Structure of project folder
 Once we have entered the above commands, Scrapy spider templates are set up. It should be noted that in this case we have two additional files:
 - the *"resources"* folder
@@ -70,11 +72,11 @@ Collected fields are classified into two sub-categories:
 ### Secondary variables
 It is important to mention the secondary variables that were created in the research part and that emerged as a function of already collected data and helped to detect complex correlations between the collected information.
 * er_view
-  > (Number of Likes / Number of Views of a video) * 100
+  > (Number of video Likes / Number of video Views) * 100
 * er_post
-  > (Number of Likes / Number of followers) * 100
+  > (Number of post Likes / Number of followers) * 100
 * er_comments post
-  > ((Number of Likes + Number of Comments) / Number of followers) * 100
+  > ((Number of post Likes + Number of post Comments) / Number of followers) * 100
 
 ### Important note 
 In order to handle Instagram's tactic that divides the posts of each account at subsections of 12 posts, the collection of the fields mentioned above was completed via two methods:
