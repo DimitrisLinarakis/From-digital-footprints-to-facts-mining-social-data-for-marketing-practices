@@ -92,4 +92,6 @@ In order to handle Instagram's tactic that divides the posts of each account at 
     > You have to be very careful, because this variable includes fields that require constant updating each time the connection to the server is lost or interrupted by the user
      
 5.  Choose if you want to populate the list "users_to_scrape" from file or database
-6. 
+6.  Open the file *"pipelines.py"* and update the variables *"myclient"*, *"db"* and *"collection"*, according to the address and the name of your database
+7.  Go to the folder *"tools"* and open the file *"documents_exporter.py"*, then update the variables *"myclient"*, *"db"* and *"collection"*, according to the address and the name of your database
+8.  
