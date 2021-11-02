@@ -92,4 +92,4 @@ In order to handle Instagram's tactic that divides the posts of each account at 
     > You have to be very careful, because this variable includes fields that require constant updating each time the connection to the server is lost or interrupted by the user
      
 5.  Choose if you want to populate the list "users_to_scrape" from file or database
-6.
+6. 
